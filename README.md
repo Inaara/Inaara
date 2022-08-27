@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 👩🏻‍💻 My name is Inaara and I'm a student at 42 Paris.
 
