@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👩🏻‍💻 My name is Inaara and I'm a student at 42 Paris.
+
+🌱 Aspiring Software Engineer, who is very passionate about IT and learning new things.
+
+📫 Email: Inaara1998@mail.ru
 <!--
 **Inaara/Inaara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
