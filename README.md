@@ -4,7 +4,7 @@
 
 🌱 Aspiring Software Engineer, who is very passionate about IT and learning new things.
 
-📫 Email: Inaara1998@mail.ru
+📫 Email: inaara1298@gmail.com
 <!--
 **Inaara/Inaara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
